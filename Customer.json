@@ -1,0 +1,52 @@
+
+
+
+{
+    "HardrockGYM": [
+       {
+          "name": "Kaushal",
+          "Age": 24,
+          "body type": "Amateur",
+          "workout target":"lean muscle",
+          "calories intake": "Calorie Deficit",
+          "HIT": "Yes",
+          "Calorie target": 1750
+       },
+       {
+         "name": "Rohit",
+          "Age": 23,
+          "body type": "Beginner",
+          "workout target": "weightloss",
+          "calories intake": "Calorie Deficit",
+          "HIT": "No",
+          "Calorie target": 1800
+       },
+       {
+         "name": "Priya",
+          "Age": 25,
+          "body type": "Pro",
+          "workout target": "zero size",
+          "calories intake": "Calorie Deficit",
+          "HIT": "Yes",
+          "Calorie target": 1500
+       },
+       {
+         "name": "Arjun",
+          "Age": 40,
+          "body type": "Amateur",
+          "workout target": "bulk up",
+          "calories intake": "Calorie Excess",
+          "HIT": "yes",
+          "Calorie target": 2250
+       },
+       {
+         "name": "Anu Kapoor",
+          "Age": 38,
+          "body type": "Pro",
+          "workout target": "weightloss",
+          "calories intake": "Calorie Deficit",
+          "HIT": "No",
+          "Calorie target": 1850
+       }
+    ]
+ }
